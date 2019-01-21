@@ -1,0 +1,2 @@
+# Moneycube
+Script Moneycube Autoclick
